@@ -47,11 +47,12 @@ El proyecto demuestra el uso de varias características importantes de C++:
 
 El código está organizado en una estructura modular para facilitar su mantenimiento y lectura:
 
+``` 
 /
 ├── Vector2D.h       # Archivo de cabecera con la definición de la clase
 ├── Vector2D.cpp     # Archivo de implementación de los métodos
 └── main.cpp         # Programa principal para probar la clase
-
+``` 
 
 ---
 
